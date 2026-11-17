@@ -219,4 +219,6 @@ As support for additional controllers is added, their EEPROM layouts and chip-sp
 
 ## License
 
-No license file is included yet. Before publishing the repository as open source, choose a license and add the corresponding `LICENSE` file. The MIT License is a reasonable permissive option for a small utility project, but the final choice belongs to the maintainer.
+This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for the complete license text.
+
+The MIT License permits use, copying, modification, distribution, sublicensing, and commercial use, provided that the copyright and permission notice are included with copies or substantial portions of the software. The software is provided "as is", without warranty of any kind, as described in the license.
