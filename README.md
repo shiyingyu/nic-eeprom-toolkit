@@ -8,12 +8,6 @@ The repository is intended to grow beyond a single controller family. Each suppo
 
 > **Scope:** These tools operate on EEPROM image files only. They do not access a NIC, read a physical EEPROM, or program/flash a device.
 
-## Repository name
-
-Recommended repository name: **`nic-eeprom-toolkit`**
-
-It describes the purpose without tying the project to Intel or the 82599, while leaving room for additional Ethernet controllers and NIC families.
-
 ## Features
 
 ### Intel 82599 EEPROM dump
